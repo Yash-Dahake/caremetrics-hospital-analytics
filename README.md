@@ -231,14 +231,13 @@ The dataset was transformed into a relational model (Star Schema)
 * Dashboard Screenshots
 
 * Overview
-  https://github.com/Yash-Dahake/caremetrics-hospital-analytics/blob/main/images/overview_dashboard.png
+  https://github.com/Yash-Dahake/caremetrics-hospital-analytics/blob/main/overview_dashboard.png.png
 
 * Financials
-  https://github.com/Yash-Dahake/caremetrics-hospital-analytics/blob/main/images/financial_dashboard.png
+  https://github.com/Yash-Dahake/caremetrics-hospital-analytics/blob/main/financial_dashboard.png.png             
 
 * Performance
-  https://github.com/Yash-Dahake/caremetrics-hospital-analytics/blob/main/images/performance_dashboard.png
-
+https://github.com/Yash-Dahake/caremetrics-hospital-analytics/blob/main/performance_dashboard.png.png
 ---
 
 * Project Explanation
